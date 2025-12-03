@@ -1,0 +1,336 @@
+Patient ID,Age,Gender,Blood_Pressure,Heart Rate,Cholesterol,BMI,Smoking,Exercise_Hours_Per_Week,Triglycerides,Medical_Report_Text,Heart_Attack_Risk,Treatment_Success_Rate
+BMW7812,67,Male,158/88,72,208,31.25123273,1,4.168188835,286,"Elderly male with stage 1 hypertension, obese BMI, and elevated triglycerides. Smoking history present. Mild exertional dyspnea reported. Prescribed antihypertensives and smoking cessation program.",0,58
+CZE1114,21,Male,165/93,98,389,27.19497335,1,1.813241618,235,Young male with severe hypertension and very high cholesterol. Active smoker with sedentary lifestyle. Asymptomatic but high long-term risk. Recommended statins and lifestyle overhaul.,0,65
+BNI9906,21,Female,174/99,72,324,28.17657068,0,2.078352986,587,"Young female with stage 2 hypertension, very high triglycerides. Non-smoker but poor exercise habits. No current symptoms but requires aggressive management.",0,68
+JLN3497,84,Male,163/100,73,383,36.46470429,1,9.828129593,378,"Elderly male with uncontrolled hypertension, high cholesterol, obesity, and smoking history. Reports occasional chest tightness. High cardiovascular risk profile.",0,42
+GFO8847,66,Male,91/88,93,318,21.80914418,1,5.80429882,231,"Controlled blood pressure, normal BMI but high cholesterol. Smoker with moderate activity. Asymptomatic with moderate risk factors.",0,71
+ZOO7941,54,Female,172/86,48,297,20.1468395,1,0.625008024,795,"Middle-aged female with hypertension, very high triglycerides, sedentary lifestyle. Smoker with low exercise. Presented with atypical chest pain. High risk category.",1,44
+WYV0966,90,Male,102/73,84,358,28.88581061,1,4.098177091,284,"Very elderly male with high cholesterol, overweight. Smoker with poor activity. History of palpitations and fatigue. Frail with multiple comorbidities.",1,38
+XXM0972,84,Male,131/68,107,220,22.22186174,1,3.427928754,370,"Elderly male with borderline BP, elevated heart rate. Smoker with low activity. Presented with syncope episodes. Multiple risk factors present.",1,45
+XCQ5937,20,Male,144/105,68,145,35.80990132,1,16.86830224,790,"Young male with severe hypertension, obese, very high triglycerides despite active lifestyle. Smoker. Asymptomatic but concerning vitals.",0,62
+FTJ5456,43,Female,160/70,55,248,22.55891675,1,0.194515061,232,"Middle-aged female with hypertension, sedentary, smoker. Normal cholesterol. Reports occasional headaches. Moderate risk profile.",0,66
+HSD6283,73,Female,107/69,97,373,22.86791077,1,16.84198759,469,"Elderly female with high cholesterol, elevated heart rate. Active lifestyle but smoker. Asymptomatic with controlled BP.",0,63
+YSP0073,71,Male,158/71,70,374,32.48534524,1,8.251995072,523,"Senior male with hypertension, high cholesterol, obese. Smoker with good activity. Mild peripheral edema noted.",0,55
+FPS0415,77,Male,101/72,68,228,35.10223615,1,19.63326816,590,"Elderly male with obesity, high triglycerides. Very active but smoker. Presented with exertional angina. High intervention needed.",1,48
+YYU9565,60,Male,169/72,85,259,25.56489715,1,17.03737418,506,"Senior male with hypertension, high triglycerides. Active lifestyle but smoker. Reports palpitations on exertion.",1,57
+VTW9069,88,Male,112/81,102,297,25.49174066,1,15.38760463,635,"Very elderly male with elevated heart rate, high triglycerides. Active but smoker. Asymptomatic with age-related risks.",0,49
+DCY3282,73,Male,114/88,97,122,36.52439524,1,14.5596645,773,"Elderly male with obesity, very high triglycerides. Active smoker. Presented with dizziness and fatigue.",1,44
+DXB2434,69,Male,173/75,40,379,28.3327472,1,4.184648046,68,"Senior male with hypertension, high cholesterol. Low heart rate concerning. Smoker with poor activity. Requires pacing evaluation.",0,59
+COP0566,38,Male,120/74,56,166,29.51738756,1,8.91790723,402,"Middle-aged male with pre-hypertension, overweight. Smoker with good activity. Normal lipids. Low current risk.",0,78
+XBI0592,50,Female,120/100,104,303,25.96435073,1,4.943580247,517,"Middle-aged female with severe diastolic hypertension, high cholesterol, elevated heart rate. Smoker. Presented with anxiety symptoms.",1,53
+RQX1211,60,Male,160/98,71,145,29.16231875,1,1.89255933,247,"Senior male with stage 2 hypertension, overweight. Sedentary smoker. Normal lipids. Reports sleep disturbances.",0,61
+MBI0008,66,Male,180/101,69,340,38.08867135,1,9.105433807,747,"Elderly male with severe hypertension, high cholesterol, morbid obesity. Smoker. High cardiovascular risk despite moderate activity.",0,46
+RVN4963,45,Male,130/84,66,294,25.12060465,1,13.69378493,360,"Middle-aged male with pre-hypertension, high cholesterol. Active lifestyle but smoker. Presented with intermittent chest discomfort.",1,64
+LBY7992,50,Male,175/60,97,359,34.65109042,1,8.354399413,358,"Middle-aged male with systolic hypertension, obese, high cholesterol. Elevated heart rate. Smoker with good activity.",0,58
+RDI3071,84,Male,173/109,81,202,29.63411091,1,10.99581328,526,"Elderly male with severe hypertension, high triglycerides. Smoker with good activity. Age and BP are primary concerns.",0,43
+NCU1956,36,Male,161/90,97,133,22.38680356,1,3.61800905,605,"Young male with hypertension, elevated heart rate, very high triglycerides. Smoker with poor activity. Concerning profile for age.",0,67
+MSW4208,90,Male,140/95,52,159,26.07202585,1,10.7098555,667,"Very elderly male with hypertension, high triglycerides. Active but smoker. Frailty and age are limiting factors.",0,41
+TTO9115,48,Male,148/105,105,271,21.58220276,1,13.5915217,316,"Middle-aged male with severe diastolic hypertension, elevated heart rate. Smoker with good activity. Normal weight.",0,62
+JDP9221,40,Male,160/76,96,273,26.41704698,1,17.63212811,551,"Middle-aged male with hypertension, elevated heart rate, high triglycerides. Very active smoker. Conflicting lifestyle factors.",0,65
+FFF6730,79,Female,113/78,74,328,31.63319643,1,16.89624545,482,"Elderly female with high cholesterol, obese. Active lifestyle but smoker. Controlled BP. Moderate age-related risk.",0,56
+DWN2141,63,Male,99/81,102,154,39.273374,1,7.94973472,718,"Senior male with morbid obesity, high triglycerides. Elevated heart rate. Smoker with moderate activity. Weight primary concern.",0,51
+SLE3369,27,Female,120/77,49,135,22.77885893,0,16.91048542,297,"Young female with normal vitals, active non-smoker. Low cholesterol. Unexplained chest pain. Likely non-cardiac origin.",1,85
+NXO4034,25,Male,178/72,45,197,18.52219873,1,18.84852628,661,"Young male with systolic hypertension, underweight. Very active smoker. Normal lipids. BP management needed.",0,73
+ENK3334,27,Male,111/91,50,321,34.19649188,1,0.759439871,558,"Young male with diastolic hypertension, obese, high cholesterol. Sedentary smoker. High risk profile for age.",1,60
+XRL5497,86,Male,99/85,46,375,18.79283401,1,3.466864144,209,"Elderly male with high cholesterol, underweight. Low activity smoker. Frail with nutritional concerns.",0,47
+DDG3686,42,Male,103/107,44,360,29.70187717,1,8.503859747,586,"Middle-aged male with severe diastolic hypertension, high cholesterol, overweight. Sedentary smoker. Multiple risk factors.",1,55
+FLG2019,52,Female,94/60,106,360,27.0958532,1,11.30836599,743,"Middle-aged female with low BP, elevated heart rate, high cholesterol. Smoker with good activity. Tachycardia concerning.",1,59
+IUJ5442,27,Female,127/109,83,263,39.84414468,0,2.096676342,411,"Young female with severe diastolic hypertension, morbid obesity. Non-smoker but sedentary. High triglycerides.",0,58
+BSV5917,29,Female,134/60,86,201,33.7876846,0,3.973168002,785,"Young female with systolic hypertension, obese, very high triglycerides. Non-smoker with poor activity. Weight management critical.",0,63
+SCZ5893,67,Male,115/92,65,347,38.72018788,1,13.87148671,790,"Elderly male with diastolic hypertension, morbid obesity, high cholesterol. Active smoker. Multiple comorbidities.",0,49
+GNK9443,29,Male,124/93,86,129,32.1721718,1,12.10698169,697,"Young male with diastolic hypertension, obese. Smoker with good activity. Normal cholesterol but high triglycerides.",0,66
+UYU5044,30,Female,104/96,101,135,27.47436401,0,5.732724595,519,"Young female with diastolic hypertension, elevated heart rate. Non-smoker with moderate activity. Anxiety symptoms reported.",0,72
+TTM1692,47,Male,144/108,65,229,35.25160589,1,5.367175284,595,"Middle-aged male with severe diastolic hypertension, obese. Smoker with poor activity. High triglyceride level.",1,54
+DUX2118,86,Female,101/90,96,251,21.81136793,1,7.489451607,452,"Elderly female with diastolic hypertension, elevated heart rate. Smoker with moderate activity. Age-related vascular stiffness.",1,46
+SQE3213,44,Male,115/109,51,121,27.09419137,1,16.65897338,158,Middle-aged male with severe diastolic hypertension. Active smoker. Normal weight and lipids. Isolated hypertension concern.,1,68
+XBP3543,50,Male,149/73,43,190,25.76902564,1,0.618009983,679,"Middle-aged male with systolic hypertension, high triglycerides. Sedentary smoker. Low heart rate noted.",0,59
+ENZ9640,33,Male,120/63,79,185,37.20900496,1,16.16048124,675,"Young male with obesity, high triglycerides. Active smoker. Normal BP. Weight primary intervention point.",1,62
+QWD3129,51,Male,106/106,79,197,24.66997133,1,14.12351894,785,"Middle-aged male with severe diastolic hypertension, very high triglycerides. Active smoker. Lipid control needed.",0,58
+UBJ2564,70,Female,102/76,86,279,29.97080949,1,2.590628034,792,"Elderly female with high triglycerides, overweight. Sedentary smoker. Presented with dyspnea on exertion.",1,52
+RRG8947,85,Male,114/92,73,336,25.58300807,1,17.75435919,584,"Elderly male with diastolic hypertension, high cholesterol. Very active smoker. Good functional capacity despite age.",0,57
+DRT6328,31,Female,124/93,90,192,30.14819319,0,3.604784791,366,"Young female with diastolic hypertension, overweight. Non-smoker with poor activity. Mild cardiovascular risk.",1,69
+BFE4900,56,Male,173/108,94,180,18.29173183,1,7.272098929,741,"Senior male with severe hypertension, underweight, high triglycerides. Smoker with moderate activity. Nutritional assessment needed.",0,56
+KCY9500,36,Male,173/109,101,203,28.00714262,1,14.20552681,523,"Young male with severe hypertension, elevated heart rate. Active smoker. Presented with palpitations and anxiety.",1,61
+JJX0859,70,Male,168/91,78,368,29.76367384,1,2.16438381,474,"Elderly male with hypertension, high cholesterol. Sedentary smoker. Multiple medication regimen required.",0,53
+IKY4481,67,Male,159/79,105,222,37.25874755,1,0.516875097,92,"Elderly male with hypertension, obese, elevated heart rate. Sedentary smoker. High sympathetic tone.",0,55
+YOD3294,31,Male,100/80,92,243,30.99029906,1,2.403627265,410,"Young male with pre-hypertension, overweight, elevated heart rate. Sedentary smoker. Early intervention recommended.",0,70
+OHD3889,24,Male,118/76,68,218,27.18363775,1,6.319013961,398,"Young male with normal BP, overweight. Smoker with moderate activity. Low current risk profile.",0,79
+BDG2694,54,Female,103/83,54,120,18.77846118,1,15.03677503,493,"Middle-aged female with normal BP, underweight. Active smoker. Unexplained cardiac symptoms. Further diagnostics needed.",1,74
+LTU0801,70,Female,152/90,52,279,39.001247,1,9.66059725,614,"Elderly female with hypertension, morbid obesity. Active smoker. Weight loss challenging but critical.",0,50
+OFU9592,74,Male,151/85,109,285,39.78390935,1,5.575382082,682,"Elderly male with hypertension, morbid obesity, elevated heart rate. Smoker with poor activity. High comorbidity burden.",0,45
+WAR7163,72,Male,144/98,61,377,28.5146383,1,17.43960987,106,"Senior male with diastolic hypertension, high cholesterol. Very active smoker. Good functional status despite risks.",1,59
+TFH5628,55,Male,109/95,64,369,23.39932278,1,1.402201343,216,"Senior male with diastolic hypertension, high cholesterol. Sedentary smoker. Lipid management priority.",0,62
+BBJ3290,42,Male,92/61,82,311,32.15698824,1,1.773249911,408,"Middle-aged male with low BP, obese, high cholesterol. Sedentary smoker. Metabolic syndrome features.",0,65
+YTR1728,90,Female,179/93,85,139,28.27730545,1,1.713099241,628,Very elderly female with severe hypertension. Sedentary smoker. Age and BP control are primary challenges.,0,40
+AYY8711,26,Male,120/69,46,266,32.33484692,1,18.18809035,481,"Young male with obesity, high triglycerides. Very active smoker. Conflicting lifestyle factors.",1,67
+TQT8266,53,Male,161/108,110,133,27.68179213,1,4.869746613,67,"Middle-aged male with severe diastolic hypertension, elevated heart rate. Smoker with poor activity. Tachycardia concerning.",0,58
+KTR4778,63,Male,131/76,86,153,19.67582873,1,18.59588033,82,"Senior male with normal BP, underweight, elevated heart rate. Very active smoker. Unexplained symptoms.",1,69
+GVI1884,46,Male,107/65,50,120,36.48884649,1,4.947740062,305,Middle-aged male with obesity. Smoker with moderate activity. Normal BP and lipids. Weight management focus.,1,66
+SOM8522,57,Female,132/109,94,220,37.8069946,1,13.65806898,164,"Senior female with severe diastolic hypertension, obese, elevated heart rate. Active smoker. Multiple risk factors.",0,53
+NHX8643,31,Female,131/97,42,339,35.45545928,0,12.37025952,211,"Young female with diastolic hypertension, obese, high cholesterol. Non-smoker with good activity. Weight primary issue.",0,64
+BNF7145,74,Male,149/73,96,329,37.67866251,1,14.08894887,511,"Elderly male with systolic hypertension, obese, high cholesterol. Active smoker. Age complicates management.",1,49
+BOK4939,63,Female,177/99,55,203,30.87047999,1,17.32914386,766,"Senior female with severe hypertension, high triglycerides. Very active smoker. Good capacity but high risk.",1,54
+DNY3115,46,Male,130/94,63,333,23.9070912,1,18.10883359,547,"Middle-aged male with diastolic hypertension, high cholesterol. Very active smoker. Isolated risk factors manageable.",0,68
+SOH9843,22,Male,174/93,82,398,39.4132127,1,18.42230195,327,"Young male with severe hypertension, morbid obesity, very high cholesterol. Active smoker. Alarming profile for age.",1,52
+ICO9779,53,Female,110/105,93,124,34.11599988,1,1.017523783,367,"Middle-aged female with severe diastolic hypertension, obese, elevated heart rate. Sedentary smoker. Multiple concerns.",0,56
+GDC1817,90,Male,116/98,69,183,22.16398755,1,19.71384008,681,Very elderly male with diastolic hypertension. Very active smoker. Remarkable functional status for age.,1,51
+DHP4080,55,Male,139/107,63,163,26.60876731,1,11.475115,131,Senior male with severe diastolic hypertension. Active smoker. Normal weight and lipids. Hypertension control challenging.,1,60
+RWL3584,30,Female,164/76,41,362,35.03819836,0,9.021923231,42,"Young female with systolic hypertension, obese, high cholesterol. Non-smoker with good activity. Weight management focus.",0,65
+JPD8131,73,Male,104/83,48,390,18.94963058,1,14.8192475,692,"Elderly male with high cholesterol, underweight. Active smoker. Nutritional and cardiac concerns.",1,55
+GMI1141,67,Male,118/86,100,192,23.21419938,1,19.81194039,664,"Elderly male with diastolic hypertension, elevated heart rate. Very active smoker. Good functional capacity.",0,58
+QJA1796,35,Male,122/77,110,200,30.75923507,1,14.62699978,543,"Young male with pre-hypertension, overweight, elevated heart rate. Active smoker. Early intervention beneficial.",0,71
+WMP6003,45,Male,109/74,76,396,38.94082538,1,17.88870534,689,"Middle-aged male with high cholesterol, morbid obesity. Active smoker. Weight and lipid control critical.",1,56
+ADG8069,39,Male,160/70,81,255,33.08548935,1,14.14396834,569,"Middle-aged male with hypertension, obese, high triglycerides. Active smoker. Conflicting health behaviors.",0,63
+RHR1854,53,Male,92/65,98,209,31.84798453,1,12.09850224,408,"Senior male with low BP, obese, elevated heart rate. Active smoker. Metabolic syndrome likely.",0,66
+GDY0435,90,Male,151/101,101,247,38.59211924,1,14.19505285,458,"Very elderly male with severe hypertension, morbid obesity, elevated heart rate. Active smoker. Complex management.",1,38
+CQM6221,69,Male,95/78,75,250,19.53639094,1,7.295877327,683,"Senior male with normal BP, underweight. Smoker with moderate activity. Nutritional status concerning.",0,61
+JDS3385,30,Male,115/73,40,227,20.80639222,1,15.31726033,408,"Young male with normal BP, normal weight. Active smoker. Low current risk but smoking concern.",0,77
+HYS8827,38,Female,148/94,58,246,35.76669367,0,16.04865917,779,"Middle-aged female with hypertension, obese, very high triglycerides. Non-smoker with good activity. Weight primary issue.",0,62
+JXV3603,56,Female,100/66,68,223,33.04386651,1,19.62006782,136,Senior female with obesity. Very active smoker. Normal BP and lipids. Conflicting profile.,1,67
+OVT8107,63,Male,163/110,71,379,28.10354807,1,8.296928733,643,"Senior male with severe hypertension, high cholesterol. Smoker with moderate activity. Multiple medication regimen.",1,52
+UIW1798,80,Male,122/80,53,330,33.93523081,1,4.514998129,653,"Elderly male with high cholesterol, obese. Sedentary smoker. Age and comorbidities limit options.",1,49
+XZD4751,60,Male,118/91,68,195,22.47602422,1,17.40234493,55,"Senior male with diastolic hypertension, normal weight. Very active smoker. Isolated hypertension manageable.",1,69
+OKX6945,69,Female,110/104,60,222,19.14035918,1,2.064459538,275,"Elderly female with severe diastolic hypertension, underweight. Sedentary smoker. Frailty concerning.",0,54
+RKV2333,77,Female,149/83,77,194,38.9091629,1,0.733633667,314,"Elderly female with systolic hypertension, morbid obesity. Sedentary smoker. Weight loss challenging.",0,48
+TLA1423,65,Female,134/100,48,178,21.32676023,1,0.84122733,760,"Senior female with diastolic hypertension, normal weight. Sedentary smoker. Activity improvement needed.",0,59
+NCU4581,46,Female,116/85,105,155,37.52627274,1,18.41517492,404,"Middle-aged female with diastolic hypertension, obese, elevated heart rate. Very active smoker. Weight focus.",0,61
+XOA9385,83,Male,165/79,69,240,18.09138504,1,0.948014397,587,"Elderly male with systolic hypertension, underweight. Sedentary smoker. Nutritional and cardiac concerns.",1,45
+SLJ3300,27,Male,102/69,65,237,32.18858748,1,3.758666906,576,"Young male with obesity, high triglycerides. Sedentary smoker. Weight management critical for prevention.",0,66
+ONL5969,31,Female,168/107,106,333,18.31895211,0,15.73316064,690,"Young female with severe hypertension, underweight, elevated heart rate. Non-smoker with good activity. BP control priority.",0,64
+CFU1297,82,Male,160/67,109,216,20.8082072,1,15.58408803,648,"Elderly male with systolic hypertension, elevated heart rate. Very active smoker. Good functional status.",0,57
+ATI9164,28,Male,92/71,65,276,34.55596453,1,13.11534573,385,"Young male with obesity, high cholesterol. Active smoker. Weight and lipid management needed.",0,68
+HGB5652,90,Male,164/65,98,224,22.85179608,1,3.560949411,255,"Very elderly male with systolic hypertension, elevated heart rate. Sedentary smoker. Age-related decline.",0,44
+SIQ8677,39,Male,155/104,47,326,22.5454183,1,12.81565101,468,"Middle-aged male with severe diastolic hypertension, high cholesterol. Active smoker. Multiple risk factors.",1,58
+OGV4421,40,Male,104/98,59,198,22.0799011,1,15.13117328,784,"Middle-aged male with diastolic hypertension, very high triglycerides. Very active smoker. Lipid control priority.",0,63
+LDS5768,86,Male,159/76,51,301,34.3659257,1,1.939739402,509,"Elderly male with systolic hypertension, obese. Sedentary smoker. Age and weight complicate management.",0,50
+PLR8209,56,Male,152/94,51,314,35.5879477,1,11.58589006,205,"Senior male with diastolic hypertension, obese, high cholesterol. Active smoker. Comprehensive management needed.",1,55
+YLL9363,19,Male,108/78,81,227,36.33300712,1,14.68629215,209,Young male with obesity. Active smoker. Normal BP and lipids. Weight management for prevention.,0,73
+ITN4331,72,Female,168/90,57,304,37.12783446,1,8.811681238,109,"Senior female with systolic hypertension, obese, high cholesterol. Active smoker. Multiple comorbidities.",0,54
+ERP9347,80,Male,105/108,110,334,31.36231397,1,9.341388528,530,"Elderly male with severe diastolic hypertension, elevated heart rate, high cholesterol. Active smoker. Complex case.",0,49
+UFC0697,53,Female,146/94,47,301,18.33248678,1,2.54339846,654,"Middle-aged female with hypertension, high cholesterol, underweight. Sedentary smoker. Multiple concerns.",0,60
+JFL6450,21,Male,109/65,97,213,36.15589796,1,5.04030066,232,"Young male with obesity, elevated heart rate. Smoker with moderate activity. Weight and activity focus.",1,67
+JKY9288,90,Female,166/89,102,254,39.51413276,1,9.821946748,331,"Very elderly female with systolic hypertension, morbid obesity, elevated heart rate. Active smoker. Remarkable but high risk.",0,43
+AAX1328,28,Male,163/61,73,237,19.40770421,1,13.57884515,485,"Young male with systolic hypertension, underweight. Active smoker. BP management and nutrition needed.",1,69
+XHX1600,69,Female,117/76,107,230,28.78902509,1,7.753302318,250,Elderly female with elevated heart rate. Active smoker. Normal BP and lipids. Tachycardia evaluation.,0,64
+SDW5368,73,Female,106/60,70,248,28.81649933,1,3.204425832,113,"Elderly female with low BP, high cholesterol. Sedentary smoker. Lipid management priority.",0,62
+GAN8948,66,Male,159/70,58,316,30.66441262,1,10.75812174,377,"Senior male with hypertension, high cholesterol, overweight. Active smoker. Standard risk factor management.",1,59
+AND5753,75,Male,145/92,87,277,25.08213925,1,4.076798313,180,Elderly male with hypertension. Smoker with poor activity. Age-appropriate management.,0,56
+WMN2843,30,Male,170/106,41,388,27.77424403,1,1.202235429,229,"Young male with severe hypertension, high cholesterol. Sedentary smoker. Aggressive intervention needed.",0,61
+LXD8525,22,Female,134/94,104,206,39.84797821,0,6.434846547,602,"Young female with diastolic hypertension, morbid obesity, elevated heart rate. Non-smoker with poor activity. Weight critical.",0,59
+OMR5899,88,Male,113/80,67,384,36.70472071,1,16.18033788,285,"Elderly male with high cholesterol, obese. Very active smoker. Good capacity despite age and risks.",0,52
+ZLM2405,90,Female,163/102,93,205,27.62144224,1,5.781094804,471,Very elderly female with severe hypertension. Active smoker. Age is primary limiting factor.,0,45
+ACQ6112,79,Male,149/100,65,261,19.94704967,1,3.867767087,554,"Elderly male with severe hypertension, underweight. Sedentary smoker. Nutritional and cardiac management.",0,51
+KMA0239,63,Female,125/76,96,308,24.10550225,1,13.27776446,344,"Senior female with high cholesterol, elevated heart rate. Active smoker. Lipid and heart rate control.",1,62
+HHA8617,27,Male,100/67,71,246,35.28636687,1,8.012334414,416,Young male with obesity. Active smoker. Normal BP. Weight management primary focus.,1,68
+PZM6937,18,Male,110/101,45,396,31.71487216,1,14.87517135,445,"Young male with severe diastolic hypertension, obese, very high cholesterol. Very active smoker. Alarming profile.",0,58
+ELD0719,60,Male,149/69,96,338,33.85420442,1,18.84502466,385,"Senior male with systolic hypertension, obese, high cholesterol. Very active smoker. Conflicting factors.",1,57
+PHK4364,34,Female,135/63,63,382,38.91692581,0,10.02954074,709,"Young female with obesity, high cholesterol, very high triglycerides. Non-smoker with good activity. Weight critical.",1,60
+NXR3682,60,Male,137/67,72,291,37.5548788,1,16.88608814,426,"Senior male with systolic hypertension, obese. Very active smoker. Weight management challenging.",1,58
+UQC2723,37,Male,178/78,53,163,19.95385899,1,18.05330883,528,"Young male with systolic hypertension, underweight. Very active smoker. BP and nutrition focus.",0,66
+CFZ8373,71,Male,116/73,107,129,29.760797,1,15.79680611,388,Senior male with elevated heart rate. Very active smoker. Normal BP and lipids. Tachycardia evaluation.,0,63
+RNA0445,88,Female,110/72,48,168,38.33370485,1,4.143816863,314,Elderly female with obesity. Sedentary smoker. Normal BP. Weight management in elderly challenging.,0,49
+YKA1578,89,Male,100/88,79,247,38.19648006,1,8.101210255,441,"Very elderly male with diastolic hypertension, obese. Active smoker. Age and weight complications.",0,46
+EIM7657,33,Male,121/72,98,218,33.73713889,1,16.11145982,306,"Young male with pre-hypertension, obese, elevated heart rate. Very active smoker. Early intervention beneficial.",0,69
+YWD5623,40,Female,174/102,49,237,19.69477896,0,15.03495711,749,"Middle-aged female with severe hypertension, underweight. Non-smoker with good activity. BP control priority.",0,64
+EAI3641,29,Female,177/94,53,388,37.21622742,0,2.78062025,347,"Young female with severe hypertension, obese, high cholesterol. Non-smoker with poor activity. Multiple risk factors.",1,59
+EUK0592,89,Female,126/108,79,227,23.66836688,1,2.304073511,341,Very elderly female with severe hypertension. Sedentary smoker. Age-related management challenges.,0,44
+DXT5853,37,Male,120/101,88,171,22.04047292,1,11.39507981,451,Young male with severe diastolic hypertension. Active smoker. Normal weight and lipids. Hypertension focus.,0,65
+AZR0892,82,Male,118/105,96,378,39.99721082,1,1.991188487,286,"Elderly male with severe diastolic hypertension, morbid obesity, high cholesterol. Sedentary smoker. High comorbidity burden.",1,43
+YTL7126,86,Female,142/88,96,124,28.96331808,1,14.00585579,356,"Elderly female with hypertension, elevated heart rate. Active smoker. Good functional capacity.",0,55
+GNL2507,71,Female,128/105,56,279,39.9531696,1,12.16691915,336,"Senior female with severe diastolic hypertension, morbid obesity. Active smoker. Weight loss priority.",0,50
+PKU2212,32,Male,143/75,85,338,32.49757583,1,6.209462919,455,"Young male with systolic hypertension, obese, high cholesterol. Active smoker. Multiple risk factors.",1,62
+NRR1900,49,Male,103/78,49,253,34.48255691,1,10.7971032,223,"Middle-aged male with obesity, high cholesterol. Active smoker. Normal BP. Weight and lipid focus.",1,66
+XAQ9706,34,Female,116/102,87,245,37.89201344,0,15.18948405,766,"Young female with severe diastolic hypertension, obese, very high triglycerides. Non-smoker with good activity. Weight critical.",0,61
+IFZ1439,63,Female,132/76,94,226,32.54271849,1,3.648268662,262,"Senior female with systolic hypertension, obese, elevated heart rate. Sedentary smoker. Multiple concerns.",0,58
+UIP9627,23,Male,169/92,88,248,19.3975258,1,18.98129002,239,"Young male with systolic hypertension, underweight. Very active smoker. BP and nutrition management.",0,70
+BNA7793,74,Female,113/79,58,281,32.03152875,1,7.258040421,555,"Elderly female with high cholesterol, obese. Active smoker. Standard senior management.",0,56
+VWX9664,33,Male,99/71,101,123,25.15641313,1,12.74145885,363,"Young male with low BP, elevated heart rate. Active smoker. Normal lipids. Tachycardia evaluation.",0,72
+CYT4743,59,Male,96/93,85,173,28.05677552,1,3.909729557,489,Senior male with diastolic hypertension. Sedentary smoker. Normal weight. Isolated hypertension.,0,64
+AGH6728,52,Female,145/82,66,231,36.87361071,1,1.536034832,788,"Middle-aged female with systolic hypertension, obese, very high triglycerides. Sedentary smoker. Weight and lipids critical.",0,57
+PUS3059,62,Female,173/62,61,234,23.83517208,1,13.82621095,121,Senior female with systolic hypertension. Active smoker. Normal weight and lipids. Hypertension management.,0,65
+RCE5059,64,Male,179/62,59,224,22.01809021,1,10.70949215,553,Senior male with systolic hypertension. Active smoker. Normal weight. Standard management.,1,63
+KTU2333,80,Male,100/69,102,268,29.60967837,1,8.929067353,485,"Elderly male with low BP, elevated heart rate, high triglycerides. Active smoker. Multiple factors.",0,55
+FON8872,32,Male,153/77,57,253,29.4670468,1,19.41255839,617,"Young male with systolic hypertension, overweight. Very active smoker. BP control with active lifestyle.",0,67
+LTS6151,82,Male,156/74,60,396,23.65917151,1,19.2972664,471,"Elderly male with systolic hypertension, very high cholesterol. Very active smoker. Remarkable capacity.",0,58
+WER6567,45,Male,162/82,76,133,21.28493408,1,2.754286098,174,Middle-aged male with systolic hypertension. Sedentary smoker. Normal weight and lipids. Hypertension focus.,0,68
+YJM3019,28,Male,98/109,81,209,28.96268705,1,4.025930409,167,"Young male with severe diastolic hypertension, overweight. Sedentary smoker. BP control priority.",1,64
+GMX4668,61,Male,165/89,64,306,25.86997839,1,15.76425168,563,"Senior male with diastolic hypertension, high triglycerides. Very active smoker. Good management potential.",0,62
+TRR4979,36,Male,150/73,87,133,39.32632596,1,14.7046018,665,"Young male with systolic hypertension, morbid obesity. Active smoker. Weight critical intervention point.",0,59
+LDJ4682,30,Female,163/102,82,186,23.61559747,0,1.059253468,605,Young female with severe hypertension. Sedentary non-smoker. Activity improvement needed.,1,66
+SHL1488,54,Male,134/90,67,293,25.84066308,1,12.04200224,65,"Middle-aged male with diastolic hypertension, high cholesterol. Active smoker. Standard risk management.",0,64
+LJI9585,70,Male,133/60,74,161,27.2871156,1,1.619527611,657,Senior male with low diastolic BP. Sedentary smoker. Normal lipids. Isolated finding.,1,69
+QGJ6378,76,Male,157/110,42,243,36.62264687,1,19.81660662,237,"Elderly male with severe hypertension, obese. Very active smoker. Good functional status.",0,56
+EIH9699,41,Male,96/106,56,398,33.62539012,1,8.808692612,141,"Middle-aged male with severe diastolic hypertension, obese, very high cholesterol. Active smoker. Multiple interventions.",1,55
+XHY0495,44,Male,173/82,75,380,21.7228496,1,15.64443256,767,"Middle-aged male with systolic hypertension, very high cholesterol, very high triglycerides. Very active smoker. Lipid critical.",1,58
+JEK2629,27,Female,96/92,75,297,18.03622299,0,2.88263729,292,"Young female with diastolic hypertension, underweight. Sedentary non-smoker. BP and nutrition focus.",0,71
+IPU0926,45,Male,162/71,82,247,23.59322428,1,6.789370568,743,Middle-aged male with systolic hypertension. Active smoker. Normal weight. Hypertension management.,1,66
+ZBC0359,76,Male,91/83,93,133,27.22172108,1,16.15393526,563,"Elderly male with diastolic hypertension, elevated heart rate. Very active smoker. Good capacity.",0,59
+FNE9444,27,Female,148/89,69,195,25.41440224,0,6.088701135,214,Young female with diastolic hypertension. Non-smoker with moderate activity. BP control priority.,0,70
+FYX5444,62,Male,145/98,86,239,24.85447166,1,16.78458468,221,Senior male with diastolic hypertension. Very active smoker. Normal weight. Isolated hypertension.,1,65
+PID6523,69,Female,180/108,81,149,23.41286007,1,3.862121295,447,Elderly female with severe hypertension. Sedentary smoker. Normal weight. BP control challenging.,0,56
+JFH5824,42,Female,98/67,110,320,32.13850791,1,7.278025874,634,"Middle-aged female with low BP, obese, high cholesterol, elevated heart rate. Active smoker. Multiple factors.",0,61
+MGR9885,42,Female,154/81,100,246,22.04279115,1,16.23485003,460,"Middle-aged female with systolic hypertension, elevated heart rate. Very active smoker. Good capacity.",0,64
+PBX8054,67,Male,172/64,99,208,35.46593559,1,8.963528084,711,"Senior male with systolic hypertension, obese. Active smoker. Weight management important.",0,58
+KJS3508,79,Male,118/75,56,219,36.74151812,1,19.88267582,216,Elderly male with obesity. Very active smoker. Normal BP and lipids. Weight focus.,0,60
+DNC4502,19,Male,144/60,80,335,34.21339313,1,7.181389738,97,"Young male with systolic hypertension, obese. Active smoker. Weight management critical.",0,66
+SNL4419,35,Male,133/63,92,265,29.6173643,1,16.11099739,267,"Young male with systolic hypertension, overweight, elevated heart rate. Very active smoker. Multiple factors.",1,64
+MRG3205,23,Male,154/102,76,380,32.06644214,1,9.199799992,695,"Young male with severe hypertension, obese, high cholesterol. Active smoker. Aggressive management needed.",0,59
+PQR7571,41,Male,123/91,64,178,25.09265976,1,9.202480438,717,Middle-aged male with diastolic hypertension. Active smoker. Normal weight. Hypertension control.,1,67
+CVA7420,87,Male,102/82,95,253,37.39590435,1,6.78438311,795,"Elderly male with obesity, very high triglycerides. Active smoker. Age and weight complications.",0,51
+LTC1110,36,Female,146/76,88,126,21.18295031,0,8.209454638,383,Young female with systolic hypertension. Non-smoker with good activity. Isolated hypertension.,0,73
+IGP0445,63,Female,178/83,108,251,21.36365557,1,4.313040241,332,"Senior female with systolic hypertension, elevated heart rate. Sedentary smoker. Multiple concerns.",1,59
+WKX1032,27,Female,123/72,90,307,23.23797545,0,5.591164384,785,"Young female with pre-hypertension, high cholesterol, very high triglycerides. Non-smoker with moderate activity. Lipid management.",0,66
+JHC9731,59,Male,154/63,74,359,21.99138976,1,17.51251331,449,Senior male with systolic hypertension. Very active smoker. Normal weight. Good management potential.,0,65
+ZAR0685,89,Male,158/85,73,270,18.45568511,1,13.52169319,701,"Very elderly male with systolic hypertension, underweight. Active smoker. Nutritional support needed.",0,50
+TRI7066,88,Male,161/105,57,336,22.41072013,1,19.85000164,524,Elderly male with severe hypertension. Very active smoker. Good functional status.,0,55
+ZFY8621,89,Male,131/70,81,225,21.16046479,1,16.60025664,549,Very elderly male with systolic hypertension. Very active smoker. Remarkable capacity.,0,56
+ICO8112,80,Male,169/90,74,193,37.08658877,1,15.03732972,31,"Elderly male with systolic hypertension, obese. Active smoker. Weight and BP management.",1,49
+ZLT2622,81,Male,154/95,60,148,18.42690516,1,14.00416838,276,"Elderly male with diastolic hypertension, underweight. Active smoker. Nutrition and BP focus.",0,57
+XGG5032,35,Female,110/104,56,358,32.77784673,0,9.32616896,569,"Young female with severe diastolic hypertension, obese, high cholesterol. Non-smoker with good activity. Multiple concerns.",1,62
+EDI3563,84,Male,121/65,57,296,32.14459345,1,15.73020596,744,"Elderly male with pre-hypertension, high cholesterol, obese. Active smoker. Standard senior management.",1,53
+PVI2611,21,Male,142/104,67,206,26.78125453,1,0.636854891,128,"Young male with severe hypertension, overweight. Sedentary smoker. Early aggressive intervention.",0,64
+JKE5424,75,Male,153/89,88,339,32.32888333,1,8.780736818,331,"Elderly male with diastolic hypertension, high cholesterol, obese. Active smoker. Comprehensive management.",1,52
+XGF9824,60,Female,125/95,49,377,25.25083984,1,11.60745415,327,"Senior female with diastolic hypertension, high cholesterol. Active smoker. Standard risk management.",1,58
+KLT7600,53,Male,135/92,65,136,35.13942581,1,5.870668825,52,"Middle-aged male with diastolic hypertension, obese. Active smoker. Weight management priority.",1,59
+GFT1011,66,Male,143/83,93,200,32.15585695,1,14.9388108,394,"Senior male with hypertension, obese. Active smoker. Weight and BP control.",0,60
+GBX5187,75,Female,149/73,41,234,26.10781715,1,16.20264659,54,Elderly female with systolic hypertension. Active smoker. Normal weight. Age-appropriate management.,1,61
+OVC8311,58,Male,96/66,50,364,20.87719856,1,7.261127278,739,"Senior male with low BP, high cholesterol. Active smoker. Lipid management focus.",1,66
+NCR3052,25,Female,157/98,83,353,32.92106299,0,16.96022669,407,"Young female with diastolic hypertension, obese, high cholesterol. Non-smoker with good activity. Weight critical.",0,64
+YJO3659,29,Male,120/109,79,252,24.80271974,1,7.612106708,751,"Young male with severe diastolic hypertension, high triglycerides. Active smoker. Multiple risk factors.",0,62
+LTG3105,85,Female,171/69,102,232,22.17537535,1,12.58669568,436,"Elderly female with systolic hypertension, elevated heart rate. Active smoker. Good functional status.",1,57
+OEI6632,24,Female,106/101,78,387,28.32544274,0,9.42858529,473,"Young female with severe diastolic hypertension, high cholesterol. Non-smoker with good activity. BP control priority.",0,65
+JTS2700,78,Male,90/105,66,299,18.33363213,1,2.166686969,218,"Elderly male with severe diastolic hypertension, underweight. Sedentary smoker. Nutrition and BP focus.",0,56
+FXR0426,32,Male,133/77,89,357,36.25264523,1,5.665349784,654,"Young male with pre-hypertension, obese, high cholesterol. Active smoker. Weight and lipid management.",0,63
+LGH0316,18,Female,179/88,68,214,18.31429755,0,15.00733846,129,"Young female with systolic hypertension, underweight. Non-smoker with good activity. BP and nutrition focus.",1,72
+ZZQ4895,49,Male,177/70,86,279,23.6816856,1,15.54909837,579,Middle-aged male with systolic hypertension. Very active smoker. Normal weight. Good management potential.,0,67
+CJV4418,42,Male,98/73,68,370,22.47712703,1,8.699921658,492,Middle-aged male with high cholesterol. Active smoker. Normal BP. Lipid management.,0,69
+ZUN7568,83,Female,174/61,104,345,20.09171503,1,10.37043591,696,"Elderly female with systolic hypertension, underweight, elevated heart rate. Active smoker. Multiple concerns.",0,55
+IED0019,58,Female,176/110,89,351,39.99358128,1,19.31311926,202,"Senior female with severe hypertension, morbid obesity, high cholesterol. Very active smoker. Weight critical.",0,53
+DKF5216,33,Male,167/62,92,344,19.96471936,1,9.717316273,197,"Young male with systolic hypertension, underweight. Active smoker. BP and nutrition management.",0,68
+HLK1794,24,Female,103/82,44,152,37.56505197,0,15.48294579,521,Young female with obesity. Non-smoker with good activity. Normal BP. Weight management focus.,0,70
+OUM0988,22,Male,171/75,105,303,39.09958384,1,13.77890939,325,"Young male with systolic hypertension, morbid obesity, elevated heart rate. Active smoker. Weight critical intervention.",0,58
+KBN1743,50,Male,158/87,73,193,24.0382137,1,2.217232444,35,Middle-aged male with systolic hypertension. Sedentary smoker. Normal weight. Hypertension management.,1,66
+WSF0425,73,Male,131/109,57,150,25.96535477,1,17.74577347,123,Senior male with severe diastolic hypertension. Very active smoker. Good functional capacity.,0,60
+XSS0940,63,Male,124/94,83,131,22.65646708,1,3.41171042,694,Senior male with diastolic hypertension. Sedentary smoker. Normal weight. Isolated hypertension.,0,64
+PXI9906,24,Male,164/71,107,334,36.93584309,1,3.914691401,434,"Young male with systolic hypertension, obese, elevated heart rate. Sedentary smoker. Multiple risk factors.",0,61
+FPC1521,72,Female,100/81,92,202,33.5067762,1,12.77148381,131,"Senior female with diastolic hypertension, obese. Active smoker. Weight management important.",0,58
+LPN6836,58,Female,164/90,109,276,18.07068021,1,16.82686714,248,"Senior female with systolic hypertension, underweight, elevated heart rate. Very active smoker. Nutrition focus.",0,62
+DZP9719,37,Male,108/64,64,190,38.43289441,1,6.114302469,648,Young male with obesity. Active smoker. Normal BP. Weight management priority.,1,65
+WDB5143,45,Male,179/63,83,226,34.19121653,1,3.519885707,348,"Middle-aged male with systolic hypertension, obese. Sedentary smoker. Weight and BP control.",0,63
+XTF7566,24,Male,141/75,72,272,25.01920255,1,18.04967639,750,"Young male with systolic hypertension, high triglycerides. Very active smoker. Lipid management.",0,66
+IRJ5181,81,Female,116/93,73,373,26.55359906,1,9.532631903,431,"Elderly female with diastolic hypertension, high cholesterol. Active smoker. Standard senior management.",1,54
+PVC5447,49,Male,115/78,108,263,26.64043539,1,8.384786861,714,"Middle-aged male with pre-hypertension, elevated heart rate. Active smoker. Early intervention.",0,69
+GXA9148,28,Male,146/107,78,194,22.2739666,1,2.296999963,649,Young male with severe diastolic hypertension. Sedentary smoker. Normal weight. BP control priority.,0,64
+IAB5092,22,Male,102/105,96,357,22.44428179,1,7.789932929,668,"Young male with severe diastolic hypertension, high cholesterol, elevated heart rate. Active smoker. Multiple concerns.",0,62
+ITY8640,25,Female,151/95,94,302,37.99116115,0,5.50383341,401,"Young female with diastolic hypertension, obese, high cholesterol. Non-smoker with poor activity. Weight critical.",0,61
+LMH8932,23,Female,133/82,48,337,28.56737193,0,2.750570013,610,"Young female with systolic hypertension, high cholesterol. Sedentary non-smoker. BP and lipid management.",1,67
+DKF7925,61,Male,134/72,105,205,24.53964198,1,11.05752938,244,"Senior male with systolic hypertension, elevated heart rate. Active smoker. Tachycardia evaluation.",0,63
+TRV5341,47,Male,157/104,95,170,25.74668144,1,5.287556856,691,Middle-aged male with severe diastolic hypertension. Active smoker. Normal weight. Hypertension control.,0,64
+KCE3422,46,Female,126/107,62,356,19.63123601,1,18.36835658,88,"Middle-aged female with severe diastolic hypertension, high cholesterol, underweight. Very active smoker. Multiple concerns.",1,59
+LLN6231,82,Male,105/103,90,297,31.61934385,1,12.06026398,532,"Elderly male with severe diastolic hypertension, obese. Active smoker. Age and weight complications.",0,52
+GBB8361,52,Male,168/110,77,274,39.3967785,1,9.354472188,777,"Middle-aged male with severe hypertension, morbid obesity, high triglycerides. Active smoker. Weight critical.",0,55
+MGP8803,88,Female,162/71,57,122,18.50456927,1,8.225009122,121,"Elderly female with systolic hypertension, underweight. Active smoker. Nutritional support needed.",0,53
+SDD6614,21,Male,115/87,51,188,38.03739695,1,9.849923416,420,"Young male with diastolic hypertension, obese. Active smoker. Weight management critical.",0,64
+AOC1459,47,Male,99/64,103,125,22.58258842,1,0.399901568,350,"Middle-aged male with low BP, elevated heart rate. Sedentary smoker. Tachycardia evaluation.",0,70
+AYM4283,82,Male,126/109,80,200,29.71826604,1,3.966002351,652,Elderly male with severe diastolic hypertension. Sedentary smoker. Age-related management.,0,51
+MYI3162,45,Male,99/90,78,328,37.49314334,1,0.004443151,413,"Middle-aged male with diastolic hypertension, obese, high cholesterol. Sedentary smoker. Multiple risk factors.",0,58
+KZY7247,75,Female,123/107,51,389,39.45633702,1,11.78482621,779,"Senior female with severe diastolic hypertension, morbid obesity, high cholesterol. Active smoker. Weight critical.",0,49
+EAB3469,86,Male,165/71,48,225,35.27604284,1,18.21058227,558,"Elderly male with systolic hypertension, obese. Very active smoker. Good functional capacity.",0,56
+PLA0781,20,Male,127/89,55,201,20.77889008,1,18.25526381,109,Young male with diastolic hypertension. Very active smoker. Normal weight. BP management.,0,69
+VGQ3461,31,Female,121/66,110,205,18.19928771,0,16.59411423,754,"Young female with low BP, elevated heart rate, very high triglycerides. Non-smoker with good activity. Lipid management.",0,67
+QZH6722,60,Male,159/98,101,138,24.30911412,1,17.79950052,760,"Senior male with diastolic hypertension, elevated heart rate. Very active smoker. Good capacity.",0,61
+WPO9038,65,Male,165/70,89,376,20.96132683,1,17.81606686,753,"Senior male with systolic hypertension, high cholesterol. Very active smoker. Lipid management.",0,63
+DTV5850,84,Female,138/89,59,181,38.04883678,1,10.26870273,457,"Elderly female with diastolic hypertension, obese. Active smoker. Weight management challenging.",0,52
+HPS8287,42,Male,119/91,107,277,20.71182179,1,8.790710632,122,"Middle-aged male with diastolic hypertension, elevated heart rate. Active smoker. Tachycardia concerning.",1,62
+PSY8110,62,Male,102/107,55,138,32.65403854,1,6.035877851,312,"Senior male with severe diastolic hypertension, obese. Active smoker. Weight and BP control.",0,59
+VEC6403,56,Female,97/93,76,230,29.6429475,1,12.90423325,778,"Senior female with diastolic hypertension, overweight. Active smoker. Standard management.",0,61
+DWZ6826,56,Male,120/65,64,263,23.54707025,1,9.318991825,676,Senior male with pre-hypertension. Active smoker. Normal weight. Early intervention.,0,68
+RFT4958,50,Female,118/82,74,184,37.80258539,1,10.49319908,775,"Middle-aged female with obesity, very high triglycerides. Active smoker. Weight and lipid critical.",0,58
+RMZ5516,58,Female,178/86,98,275,25.68729391,1,17.97975564,183,Senior female with systolic hypertension. Very active smoker. Normal weight. Good management potential.,0,64
+CPC7799,30,Male,92/82,86,163,29.6788077,1,7.129610037,601,"Young male with pre-hypertension, overweight. Active smoker. Early lifestyle intervention.",1,70
+YBZ4650,32,Male,111/69,95,243,36.394676,1,8.507479867,317,Young male with obesity. Active smoker. Normal BP. Weight management priority.,0,67
+XZE0584,69,Male,164/92,105,370,37.19822356,1,0.149311558,592,"Senior male with diastolic hypertension, obese, high cholesterol, elevated heart rate. Sedentary smoker. Multiple risk factors.",1,53
+YCH0527,43,Male,137/109,79,394,34.00690981,1,11.71695258,113,"Middle-aged male with severe diastolic hypertension, obese, very high cholesterol. Active smoker. Comprehensive management.",0,56
+IUH2759,56,Female,154/92,72,155,26.31117164,1,5.560447155,191,Senior female with diastolic hypertension. Active smoker. Normal weight. Hypertension control.,0,64
+CJP0345,39,Male,91/62,60,190,35.03362556,1,13.87787336,83,Middle-aged male with obesity. Active smoker. Normal BP. Weight management focus.,1,66
+NNR3835,86,Female,155/104,104,128,38.20983644,1,13.20775303,32,"Elderly female with severe diastolic hypertension, obese, elevated heart rate. Active smoker. Complex management.",0,48
+KAE4264,77,Male,124/91,52,217,34.04792677,1,13.2843205,453,"Elderly male with diastolic hypertension, high cholesterol, obese. Active smoker. Standard senior care.",1,54
+XJQ7283,77,Female,125/72,57,220,39.16767975,1,6.211426612,423,"Elderly female with pre-hypertension, morbid obesity. Active smoker. Weight management priority.",1,51
+CSV3638,18,Female,159/108,46,353,21.90663044,0,15.23568856,455,Young female with severe hypertension. Non-smoker with good activity. BP control priority.,0,68
+HTW2151,26,Male,106/64,58,225,18.83895915,1,0.382699836,234,Young male with low BP. Sedentary smoker. Normal lipids. Smoking cessation primary.,1,74
+KKR6535,52,Male,103/106,84,396,22.58362817,1,9.788526774,650,"Middle-aged male with severe diastolic hypertension, very high cholesterol. Active smoker. Lipid management critical.",0,59
+PUN6734,37,Male,162/62,70,399,20.87031413,1,7.864589459,565,"Young male with systolic hypertension, underweight, very high cholesterol. Active smoker. Multiple concerns.",0,63
+UIB5375,67,Male,105/80,57,378,29.75066674,1,14.27146731,798,"Senior male with pre-hypertension, high cholesterol. Active smoker. Lipid management.",0,62
+NQS1727,60,Male,175/70,55,283,35.04345371,1,19.85733446,769,"Senior male with systolic hypertension, obese. Very active smoker. Weight management.",0,59
+NSF4755,28,Female,125/93,44,289,23.11407408,0,1.168037821,412,Young female with diastolic hypertension. Sedentary non-smoker. BP control priority.,1,69
+WXM0274,81,Male,98/108,78,120,31.8785746,1,12.94986879,455,"Elderly male with severe diastolic hypertension, obese. Active smoker. Weight and BP control.",0,53
+AIW4911,87,Male,123/95,83,138,19.49713303,1,7.171957806,63,"Elderly male with diastolic hypertension, underweight. Active smoker. Nutrition and BP focus.",1,55
+RKM6961,50,Male,133/102,40,131,33.89987596,1,3.089674149,576,"Middle-aged male with severe diastolic hypertension, obese. Sedentary smoker. Weight management priority.",1,58
+ZVX8100,62,Male,157/100,109,284,37.22982529,1,2.861489244,198,"Senior male with severe hypertension, obese, elevated heart rate. Sedentary smoker. Multiple risk factors.",1,54
+JDK0538,68,Male,110/67,106,270,25.06082498,1,15.98959831,93,"Senior male with low BP, elevated heart rate. Very active smoker. Tachycardia evaluation.",0,64
+XPP2301,21,Female,142/96,102,321,21.79631526,0,16.25467517,764,"Young female with diastolic hypertension, elevated heart rate. Non-smoker with good activity. BP and heart rate control.",0,66
+OKR6669,24,Male,133/91,82,327,36.35330167,1,9.805250595,82,"Young male with diastolic hypertension, obese, high cholesterol. Active smoker. Multiple risk factors.",0,61
+FUD7151,44,Female,128/94,42,262,21.93799868,1,6.580133176,737,Middle-aged female with diastolic hypertension. Active smoker. Normal weight. Hypertension management.,1,65
+IAC2550,25,Male,115/109,54,212,28.25985168,1,9.053795121,94,"Young male with severe diastolic hypertension, overweight. Active smoker. BP control priority.",0,63
+ZXA5748,76,Male,175/62,87,153,28.36438074,1,16.71251392,211,Elderly male with systolic hypertension. Very active smoker. Normal weight. Good management potential.,0,60
+AMH0692,83,Female,155/110,85,216,21.50103982,1,5.156871254,298,Elderly female with severe hypertension. Active smoker. Normal weight. BP control challenging.,1,52
+IWI0601,43,Male,95/63,62,152,33.81731881,1,14.91061877,288,Middle-aged male with obesity. Active smoker. Normal BP. Weight management focus.,0,67
+IRX7433,44,Female,161/94,104,350,31.36496793,1,5.576840847,735,"Middle-aged female with diastolic hypertension, high cholesterol, elevated heart rate. Active smoker. Multiple concerns.",1,59
+EJU5290,43,Male,117/76,66,192,29.05840943,1,0.729253189,190,Middle-aged male with pre-hypertension. Sedentary smoker. Normal weight. Early intervention.,0,70
+HZU0037,22,Female,179/82,72,345,38.45010895,0,17.04863018,281,"Young female with systolic hypertension, obese, high cholesterol. Non-smoker with good activity. Weight critical.",1,62
+LEE8234,38,Male,179/65,56,128,34.35989858,1,6.027208393,146,"Middle-aged male with systolic hypertension, obese. Active smoker. Weight management priority.",0,64
+IPH2474,53,Male,96/77,69,311,20.13678792,1,5.148298317,574,Middle-aged male with high cholesterol. Active smoker. Normal BP. Lipid management.,0,68
+OUS8176,86,Female,167/64,57,206,38.04055617,1,19.99870905,359,"Elderly female with systolic hypertension, obese. Very active smoker. Good functional capacity.",0,55
+MSP7682,68,Female,142/68,57,125,21.53068872,1,5.903121494,155,Senior female with systolic hypertension. Active smoker. Normal weight. Hypertension management.,0,63
+VDU1518,47,Male,138/66,42,385,19.622256,1,12.87438094,719,"Middle-aged male with systolic hypertension, underweight, high cholesterol. Active smoker. Multiple concerns.",0,62
+QSQ1337,75,Male,180/103,49,121,34.09384662,1,11.05634815,466,"Elderly male with severe hypertension, obese. Active smoker. Weight and BP control.",1,52
+NZU5544,44,Male,90/62,85,330,21.80884451,1,16.64112688,106,"Middle-aged male with low BP, high cholesterol. Very active smoker. Lipid management.",0,67
+ZMF2605,18,Female,137/64,48,356,22.620809,0,7.361697227,492,"Young female with systolic hypertension, high cholesterol. Non-smoker with moderate activity. BP and lipid control.",1,66
+VQD2926,51,Male,163/84,86,321,35.62297439,1,0.512236237,275,"Middle-aged male with systolic hypertension, obese, high cholesterol. Sedentary smoker. Multiple risk factors.",0,59
+TJD3106,81,Male,158/108,85,283,22.5984079,1,0.701060304,517,Elderly male with severe hypertension. Sedentary smoker. Normal weight. BP control challenging.,1,53
+FXR8774,75,Male,151/68,103,155,37.54888016,1,2.233959986,788,"Elderly male with systolic hypertension, obese, elevated heart rate. Sedentary smoker. Multiple concerns.",1,50
+LMZ2207,60,Male,168/97,91,162,36.71893156,1,9.967656529,273,"Senior male with diastolic hypertension, obese. Active smoker. Weight management important.",0,58
+HKW6197,45,Female,156/106,72,203,26.02461496,1,12.70586216,515,Middle-aged female with severe diastolic hypertension. Active smoker. Normal weight. Hypertension control.,0,62
+RCB7108,63,Male,103/75,107,141,33.52397175,1,3.750349867,187,"Senior male with pre-hypertension, obese, elevated heart rate. Sedentary smoker. Multiple factors.",0,60
+ISA3150,50,Male,103/61,105,283,28.92393456,1,16.51762076,544,"Middle-aged male with low BP, elevated heart rate, high cholesterol. Very active smoker. Conflicting profile.",1,63
+UHW7173,74,Female,105/103,51,361,20.56911638,1,3.570245439,784,"Elderly female with severe diastolic hypertension, high cholesterol, underweight. Sedentary smoker. Multiple concerns.",0,54
+NBD0612,29,Female,173/65,109,200,21.54096968,0,11.32305419,103,"Young female with systolic hypertension, elevated heart rate. Non-smoker with good activity. BP and heart rate control.",1,67
+VTL9882,73,Female,116/74,68,220,33.59813268,1,14.98587958,132,"Senior female with pre-hypertension, obese. Active smoker. Weight management priority.",1,59
+UTK7966,85,Male,131/96,82,201,23.19677174,1,16.64045768,118,Elderly male with diastolic hypertension. Very active smoker. Good functional status.,0,58
+QMA7405,78,Male,141/68,64,244,18.41361231,1,3.30591963,115,"Elderly male with systolic hypertension, underweight. Sedentary smoker. Nutrition and BP focus.",1,56
+TWJ6230,76,Male,99/108,99,150,23.95321148,1,14.14258526,544,"Elderly male with severe diastolic hypertension, elevated heart rate. Active smoker. Tachycardia concerning.",0,54
+YMO9545,46,Male,121/96,90,295,39.61872336,1,15.51324658,709,"Middle-aged male with diastolic hypertension, morbid obesity, high cholesterol. Very active smoker. Weight critical.",0,56
+EDK0937,56,Female,110/96,95,287,23.76581263,1,7.509904829,85,Senior female with diastolic hypertension. Active smoker. Normal weight. Hypertension control.,1,62
+PMI1491,74,Female,112/66,58,339,29.41330038,1,18.75328496,38,"Elderly female with low BP, high cholesterol. Very active smoker. Lipid management.",0,61
+YZE4908,64,Male,133/70,67,144,22.94865384,1,10.16649815,117,Senior male with systolic hypertension. Active smoker. Normal weight. Standard management.,0,64
+GLV2486,26,Male,171/99,67,382,39.92006235,1,7.044254167,223,"Young male with diastolic hypertension, morbid obesity, high cholesterol. Active smoker. Aggressive intervention needed.",1,55
+BRG9907,40,Male,96/100,79,354,31.96382202,1,0.269028594,362,"Middle-aged male with severe diastolic hypertension, obese, high cholesterol. Sedentary smoker. Multiple risk factors.",0,58
+YJN3447,19,Female,180/92,48,153,35.24325505,0,5.316554746,411,"Young female with severe hypertension, obese. Non-smoker with poor activity. Weight and BP critical.",1,61
+VUW1193,18,Male,142/67,51,163,23.42622689,1,3.673767305,614,Young male with systolic hypertension. Active smoker. Normal weight. BP management priority.,1,68
+IIR4559,53,Female,156/75,64,122,26.85751153,1,16.46743173,133,Middle-aged female with systolic hypertension. Very active smoker. Normal weight. Good management potential.,1,65
+PLH7490,63,Male,162/67,94,230,33.98679832,1,15.39893578,547,"Senior male with systolic hypertension, obese. Very active smoker. Weight management.",0,60
+OMY0486,36,Male,90/100,91,225,37.48849663,1,3.454140799,498,"Young male with severe diastolic hypertension, obese. Active smoker. Weight critical intervention.",0,59
+IYH1719,67,Male,109/107,60,363,21.69317826,1,12.38640424,645,"Senior male with severe diastolic hypertension, high cholesterol. Active smoker. Multiple medication regimen.",1,55
+RCM4245,50,Male,168/68,72,173,36.9334079,1,19.01191641,492,"Middle-aged male with systolic hypertension, obese. Very active smoker. Weight management.",0,61
+FXK2707,64,Female,146/100,41,265,27.11013333,1,8.145024044,339,Senior female with severe diastolic hypertension. Active smoker. Normal weight. Hypertension control.,0,59
+SXP6277,75,Male,108/75,55,352,32.27012568,1,0.392533687,787,"Elderly male with pre-hypertension, high cholesterol. Sedentary smoker. Lipid management.",1,62
+YTR7765,26,Female,145/62,108,228,22.86218442,0,0.802035822,558,"Young female with systolic hypertension, elevated heart rate. Sedentary non-smoker. BP and heart rate control.",1,66
+VCB3963,90,Male,168/68,100,136,23.55399351,1,13.83745361,733,Very elderly male with systolic hypertension. Active smoker. Normal weight. Age-appropriate management.,1,52
+JJP8674,70,Male,112/108,76,140,24.52921772,1,11.65780611,697,Senior male with severe diastolic hypertension. Active smoker. Normal weight. Hypertension control.,0,58
+TLC3781,24,Female,150/95,50,196,19.92918881,0,6.231390494,648,"Young female with diastolic hypertension, underweight. Non-smoker with poor activity. BP and nutrition focus.",0,69
+SIO9750,77,Male,122/97,76,172,27.36148076,1,4.540924899,663,Elderly male with diastolic hypertension. Active smoker. Normal weight. Standard management.,1,57
+LUQ7573,82,Female,161/77,102,319,30.34037457,1,1.526998505,291,"Elderly female with systolic hypertension, elevated heart rate. Sedentary smoker. Tachycardia evaluation.",1,55
+ALW1741,85,Female,115/61,87,325,34.08638022,1,19.28064969,502,"Elderly female with pre-hypertension, high cholesterol, obese. Active smoker. Weight and lipid management.",1,56
+VAE5681,25,Male,92/105,93,162,27.58919895,1,12.46276952,569,"Young male with severe diastolic hypertension, overweight. Active smoker. BP control priority.",1,63
+DSD1356,67,Male,100/89,102,331,26.66963033,1,12.69701236,341,"Senior male with diastolic hypertension, elevated heart rate. Active smoker. Tachycardia concerning.",0,59
+SCA4405,77,Male,96/60,94,392,19.98804075,1,16.03987514,78,"Elderly male with low BP, very high cholesterol. Very active smoker. Lipid management critical.",0,61
+RXN2426,39,Female,137/100,75,220,19.01418391,0,16.34996991,35,"Young female with diastolic hypertension, underweight. Non-smoker with good activity. BP and nutrition focus.",0,70
+MGU4677,60,Female,94/109,73,308,20.54163638,1,8.47875084,81,"Senior female with severe diastolic hypertension, underweight. Active smoker. Nutrition and BP focus.",0,60
+VEL6785,54,Female,93/102,101,284,32.28705744,1,8.143856322,257,"Middle-aged female with severe diastolic hypertension, obese, elevated heart rate. Active smoker. Multiple concerns.",0,58
+WEW456,60,Male,114/103,101,147,26.32486058,1,17.13773486,624,"Senior male with severe diastolic hypertension, elevated heart rate. Very active smoker. Tachycardia evaluation.",0,59
+FUM7288,36,Male,105/90,61,193,25.99503473,1,10.49757161,91,"Young male with diastolic hypertension, overweight. Active smoker. Early intervention beneficial.",1,66
+BEG2015,41,Female,90/78,51,250,29.76698932,1,11.13300465,374,"Middle-aged female with pre-hypertension, overweight. Active smoker. Normal lipids. Early lifestyle changes.",0,69
+FPA6845,87,Male,126/74,108,122,25.0473288,1,1.427122464,767,"Elderly male with pre-hypertension, elevated heart rate. Very active smoker. Tachycardia evaluation.",1,35
+XJI2791,32,Male,177/75,96,299,20.94955758,1,9.741450242,270,Young male with systolic hypertension. Active smoker. Normal weight. BP management priority.,0,78
+NHU7732,85,Male,179/104,93,261,28.2522231,1,14.54900036,797,Elderly male with severe hypertension. Active smoker. Normal weight. BP control challenging.,0,54
+MLA0112,46,Male,101/75,95,187,29.11834511,1,19.61059616,306,Middle-aged male with pre-hypertension. Very active smoker,0,
