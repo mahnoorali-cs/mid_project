@@ -27,7 +27,7 @@ Evaluation Metrics:
             Mean_Squared_Error, R2_score, Accuracy, Recall, Precision, F1_score, Confusion Matrix,
             Classification Report
             
-Running the interface:
+Running the interface: <br>
            1. clone the repo <br>
            2. go into the folder <br>
            3. install the requirments <br>
